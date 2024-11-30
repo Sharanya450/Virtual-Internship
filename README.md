@@ -1,6 +1,6 @@
 # Virtual-Internship
 ## Overview
-The successful completion of the Codebasics Virtual Internship Task! 🎉👨‍💻 Diving deep into the Wavecon Telecom Analysis Dashboard
+The successful completion of the Codebasics Virtual Internship Task! 🎉👨‍💻 Diving deep into the Wavecon Telecom Analysis Dashboard.
 
 ## Key Insights Unveiled
 
@@ -14,7 +14,7 @@ The successful completion of the Codebasics Virtual Internship Task! 🎉👨‍
     Discerned plans that have excelled in terms of revenue after the 5G launch and those requiring strategic reconsideration.
 
 ### Plan Evaluation
-    Examined the impact of 5G on specific plans, advising on whether to continue, discontinue, or reevaluate them.
+    Examined the impact of 5G on specific plans, advising on whether to continue, discontinue, or re-evaluate them.
 
 ### Discontinued Plans
     Investigated plans that were discontinued post-5G launch, shedding light on the reasons behind such decisions.
@@ -36,4 +36,5 @@ Special thanks to the contributors and developers of Excel, power bi and  relate
 1. Power bi 
 2. Excel
 3. SQL
-4. OBS studio
+4. Canva
+5. OBS studio

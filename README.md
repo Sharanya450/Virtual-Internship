@@ -20,7 +20,7 @@ The successful completion of the Codebasics Virtual Internship Task! 🎉👨‍
     Investigated plans that were discontinued post-5G launch, shedding light on the reasons behind such decisions.
 
 ## Usage :
-1. Clone the repository:git clone https://github.com/RavinaKarnik/Wavecon-Telecom-Analysis
+1. Clone the repository
 2. Navigate to the respective reports to access the analysis and insights.
 3. Customize the reports as per your requirements by modifying the data sources or adding additional calculations.
 

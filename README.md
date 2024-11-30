@@ -38,3 +38,10 @@ Special thanks to the contributors and developers of Excel, power bi and  relate
 3. SQL
 4. Canva
 5. OBS studio
+
+
+## Linkedln Post : 
+
+
+## Power bi Dashboard :
+<iframe title="Wavecon_dashboard_analysis1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOTE4N2JmMzAtNzViYS00YWI4LTliZDctM2Y4ZTM5ZDM0ZTg4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection16b73cde20cf3ed17b51" frameborder="0" allowFullScreen="true"></iframe>

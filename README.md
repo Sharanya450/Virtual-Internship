@@ -36,5 +36,4 @@ Special thanks to the contributors and developers of Excel, power bi and  relate
 1. Power bi 
 2. Excel
 3. SQL
-4. Movie maker
-5. OBS studio
+4. OBS studio

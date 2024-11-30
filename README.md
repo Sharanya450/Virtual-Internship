@@ -1,6 +1,6 @@
 # Virtual-Internship
 ## Overview
-The successful completion of the Codebasics Virtual Internship Task! 🎉👨‍💻 Diving deep into the 5G Impact Dashboard.
+The successful completion of the Codebasics Virtual Internship Task! 🎉👨‍💻 Diving deep into the Wavecon Telecom Analysis Dashboard
 
 ## Key Insights Unveiled
 

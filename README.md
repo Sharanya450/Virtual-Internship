@@ -40,7 +40,7 @@ Special thanks to the contributors and developers of Excel, power bi and  relate
 5. OBS studio
 
 
-## Linkedln Post : 
+## Linkedln Post : https://www.linkedin.com/posts/sharanyashukla_codebasics-virtualintership-dataanalysis-activity-7268873900875218944-XSC9?utm_source=share&utm_medium=member_desktop
 
 
 ## Power bi Dashboard :

@@ -45,3 +45,7 @@ Special thanks to the contributors and developers of Excel, power bi and  relate
 
 ## Power bi Dashboard :
 https://app.powerbi.com/view?r=eyJrIjoiOTE4N2JmMzAtNzViYS00YWI4LTliZDctM2Y4ZTM5ZDM0ZTg4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection16b73cde20cf3ed17b51
+
+
+## Video Presentation : 
+https://drive.google.com/file/d/1cl7TWRvpkFwTIfnK9-4DiiUkMvS9O2jC/view?usp=sharing

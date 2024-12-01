@@ -34,10 +34,8 @@ Special thanks to the contributors and developers of Excel, power bi and  relate
 
 ## Tools Used : 
 1. Power bi 
-2. Excel
-3. SQL
-4. Canva
-5. OBS studio
+2. Canva
+3. OBS studio
 
 
 ## Linkedln Post : https://www.linkedin.com/posts/sharanyashukla_codebasics-virtualintership-dataanalysis-activity-7268873900875218944-XSC9?utm_source=share&utm_medium=member_desktop
